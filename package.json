@@ -1,0 +1,11 @@
+{
+  "name": "data-props",
+  "version": "1.0.0",
+  "description": "<div {...dataProps(this.props)}>",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Thai Pangsakulyanont @ Taskworld.com <thai.p@taskworld.com>",
+  "license": "ISC"
+}
