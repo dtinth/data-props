@@ -7,5 +7,16 @@
     "test": "node test.js"
   },
   "author": "Thai Pangsakulyanont @ Taskworld.com <thai.p@taskworld.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taskworld/data-props.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taskworld/data-props/issues"
+  },
+  "homepage": "https://github.com/taskworld/data-props#readme",
+  "keywords": [
+    "react"
+  ]
 }
